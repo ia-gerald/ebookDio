@@ -9,7 +9,7 @@ Tecnologias de I.A. utilizadas:
 . MAGE - para geração das imagens
 
 Softwares usados manualmente, sem I.A., 100% operadas por humano:
-. Adode Photoshop (craição 100% original e humana)
+. Adode Photoshop (criação 100% original e humana)
 . Power Point (layout e design grágico 100% feito por humano)
 
 Em tempo: ainda falta uma revisão do conteúdo, uma vez, que a internet teve problemas para finalizar os demais páginas.
